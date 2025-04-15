@@ -1,2 +1,2 @@
 # Extract-Tables-from-a-PDF
-Jupyter Notebook extracts financial data tables from a PDF using the Camelot library
+This project demonstrates how to extract financial data tables from a PDF using the Camelot Python library.
