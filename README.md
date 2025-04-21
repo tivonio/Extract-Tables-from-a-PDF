@@ -10,3 +10,14 @@ The data source for this porject is the Annual City Budget data for Augusta, Geo
 3. Pandas Dataframe
 4. Data Validation
 5. Save as CSV File
+## Python Libraries
+1. Camelot – Used for extracting tables
+* Works with text-based files and tables only
+*Required dependencies: Tkinter, Ghostscript
+2. PyPDF2 – Different types of PDF operations
+* Auto-installed with Camelot
+* Defaults to v3.0, which has a deprecation error
+* Solution: pip install PyPDF<3.0
+3. Pandas – Data manipulation and analysis
+4. Matplotlib – Visualization and plots
+5. NumPy – Scientific computing
