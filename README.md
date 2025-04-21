@@ -4,3 +4,9 @@ PDF stands for “Portable Document Format.” It is the third most popular file
 Extracting text from a PDF can be as simple as copying and pasting the content. However, extracting tabular data may not be as straightforward as table structure is rarely maintained and columns and rows get distorted. Fortunately, there are other methods we can use. Python, for example, has a variety of libraries available for extracting tables from PDF files. This project demonstrates how to extract tables from a PDF using the Camelot Python library.
 ## Data
 The data source for this porject is the Annual City Budget data for Augusta, Georgia published as PDF files on www.augustaga.gov
+## Process Outline
+1. Install Python Libraries
+2. Extract Tables
+3. Pandas Dataframe
+4. Data Validation
+5. Save as CSV File
